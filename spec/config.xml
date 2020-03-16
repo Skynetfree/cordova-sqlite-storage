@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.plugins.sqlite.tests" version="0.0.1"
+<widget id="com.phonegap.plugins.sqlite.tests" version="1.0"
         xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>cordova-sqlite-spec</name>
     <description>
       Runs the unit tests suite for the Cordova SQLite plugin.
     </description>
-    <author email="info@litehelpers.net" href="http://litehelpers.net">
+    <author email="info@litehelpers.net" href="https://discordapp.com/invite/EhXA6HV">
       Various
     </author>
     <content src="index.html" />
